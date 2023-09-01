@@ -36,7 +36,7 @@ This is a complete end to end machine learning (regression) project. It covers a
  - Prefect - For workflow orchestration
  - Git - For project version control
  - DVC - For data version control
- - 
+   
 ## [Project 4: Deep Learning Model for Detection of Malaria Infected Red Blood Cells](https://github.com/joagada2/deep_learning_model_for_detecting_malaria_infected_red_blood_cell)
 In this computer vision project, I trained convolutional neural network which takes image of red blood cells and predict if the cell in malaria infected or not. The model has accuracy of 0.94. I also built a flask application for deployment of the model to production environment.
 
