@@ -38,7 +38,18 @@ This is a complete end to end machine learning (regression) project. It covers a
  - DVC - For data version control
    
 ## [Project 4: Deep Learning Model for Detection of Malaria Infected Red Blood Cells](https://github.com/joagada2/deep_learning_model_for_detecting_malaria_infected_red_blood_cell)
-In this computer vision project, I trained convolutional neural network which takes image of red blood cells and predict if the cell in malaria infected or not. The model has accuracy of 0.94. I also built a flask application for deployment of the model to production environment.
+In this computer vision project, I trained convolutional neural network which takes image of red blood cells and predict if the cell in malaria infected or not. The model has accuracy of 0.94. I also built a flask application for deployment of the model to production environment. Skills/tech used in this project include:
+ - Python
+ - Tensorflow - for model training
+ - Keras - Tenforflow API
+ - MLFlow - Experiment tracking
+ - dagshub - Experiment tracking, data storage in the cloud and code hosting
+ - FastAPI - Model Serving
+ - Prefect - For workflow orchestration
+ - Git - For project version control
+ - WhyLabs - Continous monitoring of model in production
+ - DVC - For data version control
+ - GitHub - Code hosting
 
 ## I am currently working on buidling machibne learning solutions in the cloud using AWS
 
