@@ -4,6 +4,7 @@ My name is Joseph Oche Agada. I am a data science professional with over 10 year
 Python, SQL, PyTorch, Numpy, Searborn, Sckiti-learn, Tensorflow, Keras, Xgboost, FastApi, Flask, Prefect, BERT, NLTK, MLFlow, Dagshub, Git, DVC, Hydra, Heroku, MS Azure, GitHub Action, Streamlit, WhyLabs, SparkML, SparkMLib,  AWS, Fbprophet, TorchServe, XLNet, GPT, Simple Transformers, Docker, Kubernetes, SageMaker,  LazyPredict, Power BI, SHAP etc
 
 # SELECTED PORTFOLIO PROJECT
+Below are some selected portfolio projects. There are over 20 other fascinating project repositories
 
 ## [Project 1: Machine Learning System for Loan Default Prediction](https://github.com/joagada2/loan-default-prediction-model)
 This is a complete end to end machine learning (binary classification) project. It covers all stages of ML lifecycle, from problem selection, model training, experiment tracking, model serving, real time/batch inferencing, model monitoring, workflow orchestration and CI/CD pipeline. Tech/skills used in this project are:
