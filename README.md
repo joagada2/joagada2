@@ -52,6 +52,6 @@ In this computer vision project, I trained convolutional neural network which ta
  - DVC - For data version control
  - GitHub - Code hosting
 
-## I am currently working on buidling machibne learning solutions in the cloud using AWS
+## My current interest is in building computer vision (objects detection) models for detection and identification on non-conventional military targets on space-borne and airborne sensor images.
 
 
