@@ -52,6 +52,8 @@ In this computer vision project, I trained convolutional neural network which ta
  - DVC - For data version control
  - GitHub - Code hosting
 
-## My current interest is in building computer vision (objects detection) models for detection and identification on non-conventional military targets on space-borne and airborne sensor images.
+## Check my repository for my other fascinating projects
+
+## My current interest is in building computer vision (object detection) models for the detection and identification of non-conventional military targets on space-borne and airborne sensor images.
 
 
