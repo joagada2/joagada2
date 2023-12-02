@@ -8,7 +8,7 @@ Below are some selected portfolio projects. There are over 20 other fascinating 
 
 ## [Project 1: Machine Learning System for Loan Default Prediction](https://github.com/joagada2/loan-default-prediction-model)
 This is a complete end to end machine learning (binary classification) project. It covers all stages of ML lifecycle, from problem selection, model training, experiment tracking, model serving, real time/batch inferencing, model monitoring, workflow orchestration and CI/CD pipeline. Tech/skills used in this project are:
- - Python (Pandas, matplotlib, seaborn, scikitlearn etc)
+ - Python (Pandas, numpy, matplotlib, seaborn, scikitlearn etc)
  - XGBoost - for model training
  - MLFlow - Experiment tracking
  - dagshub - Experiment tracking, data storage in the cloud and code hosting
@@ -24,7 +24,7 @@ This is a complete end to end machine learning (binary classification) project. 
 
 ## [Project 2: Machine Learning System for House Price Prediction](https://github.com/joagada2/king-county-house-price-prediction)
 This is a complete end to end machine learning (regression) project. It covers all stages of ML lifecycle, from problem selection, model training, experiment tracking, model serving, real time/batch inferencing, model monitoring, workflow orchestration and CI/CD pipeline. Technologies used include:
- - Python (Pandas, matplotlib, seaborn, scikitlearn etc)
+ - Python (Pandas, numpy, matplotlib, seaborn, scikitlearn etc)
  - XGBoost - for model training
  - MLFlow - Experiment tracking
  - dagshub - Experiment tracking, data storage in the cloud and code hosting
@@ -40,7 +40,7 @@ This is a complete end to end machine learning (regression) project. It covers a
    
 ## [Project 3: Deep Learning Model for Detection of Malaria Infected Red Blood Cells](https://github.com/joagada2/deep_learning_model_for_detecting_malaria_infected_red_blood_cell)
 In this computer vision project, I trained convolutional neural network which takes image of red blood cells and predict if the cell in malaria infected or not. The model has accuracy of 0.94. I also built a flask application for deployment of the model to production environment. Skills/tech used in this project include:
- - Python
+ - Python (pandas, numpy, seaborn, matplotlib)
  - Tensorflow - for model training
  - Keras - Tenforflow API
  - MLFlow - Experiment tracking
