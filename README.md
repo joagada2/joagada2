@@ -6,6 +6,21 @@ Python, SQL, PyTorch, Numpy, Searborn, Sckiti-learn, Tensorflow, Keras, Xgboost,
 # SELECTED PORTFOLIO PROJECT
 Below are some selected portfolio projects. There are over 20 other fascinating project repositories
 
+## [Project 1: Machine Learning System for Predicting Fatality in Patients with Myocardial Infarction](https://github.com/joagada2/mi_fatality_prediction)
+The first three days of hospitalization for myocardial infarction (MI) patients are critical due to the high risk of fatal complications. Ghafari et al. (2023) developed a machine learning model to predict fatalities during this period. However, the study had two significant issues that I sought to address by building a new model using the same dataset, and then creating a full production-grade machine learning system off the project. First, the study incorrectly treated survivors as the positive class in the training data, which caused sensitivity and specificity to be interchanged, leading to a misreported sensitivity of 0.9435 instead of 0.6923. Second, the paper did not address the common issue of class imbalance in most real-world datasets, failing to use methods like SMOTE, which are proven to enhance model performance. In my model, I correctly designated the positive and negative classes and applied SMOTE to handle class imbalance, thereby significantly improving performance across all metrics to at least 97%. Finally, I developed a full production-grade machine learning system for prediction of outcome in MI patients. The ML system is ready for integration into web or mobile applications. Tools used in this project are as follow:
+  - Python (Pandas, matplotlib, seaborn, scikitlearn etc)
+  - Lazypredict - for experimentation
+  - ExtratreesClassifiers - for model training
+  - MLFlow - Experiment registry/tracking
+  - FastAPI - Model Serving/API creation
+  - AWS EC2 - API deployment
+  - AWS ECR - Repository management on AWS
+  - GitHub/GitHub Action - Code hosting and CI/CD pipeline
+  - WhyLabs - Continous monitoring of model in production
+  - Prefect - For workflow orchestration
+  - Git - For project version control
+  - etc
+    
 ## [Project 1: Machine Learning System for Loan Default Prediction](https://github.com/joagada2/loan-default-prediction-model)
 This is a complete end to end machine learning (binary classification) project. It covers all stages of ML lifecycle, from problem selection, model training, experiment tracking, model serving, real time/batch inferencing, model monitoring, workflow orchestration and CI/CD pipeline. Tech/skills used in this project are:
  - Python (Pandas, numpy, matplotlib, seaborn, scikitlearn etc)
