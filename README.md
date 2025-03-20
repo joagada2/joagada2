@@ -1,7 +1,7 @@
 # Hi There 👋
 My name is Joseph Oche Agada. I am a data science professional with over 10 years of professional work experience. My specialization and current area of interest is in Machine Learning. I have the capacity to take on machine learning project from conceptualization to model monitoring. I have proven work and project experience and a track record of success across various areas of machine learning, from linear regression, classification, clustering, deep learning, computer vision, NLP, and Generative AI, to ranking and recommender systems.  My skill stack is as follows:
 
-Python, R, MATLAB, SQL, Bash, PyTorch, Numpy, Pandas, Searborn, Sckiti-learn, Tensorflow, Keras, Xgboost, FastApi, Flask, Prefect, BERT, NLTK, Transformers, HaggingFace, LangChain, Chroma, Pinecone, Gradio, MLFlow, Dagshub, Git, DVC, Hydra, Heroku, MS Azure, GitHub Action, Streamlit, WhyLabs, SparkML, SparkMLib,  AWS, Fbprophet, TorchServe, XLNet, GPT, Simple , Docker, Kubernetes, SageMaker,  LazyPredict, Power BI, SHAP etc 
+Python, R, MATLAB, SQL, Bash, PyTorch, Numpy, Pandas, Searborn, Sckiti-learn, Tensorflow, Keras, Xgboost, FastApi, Flask, Prefect, BERT, NLTK, Transformers, HuggingFace, LangChain, Chroma, Pinecone, Gradio, MLFlow, Dagshub, Git, DVC, Hydra, Heroku, MS Azure, GitHub Action, Streamlit, WhyLabs, SparkML, SparkMLib, AWS, AWS EC2, AWS ECR, AWS Bucket, Fbprophet, TorchServe, XLNet, GPT , Docker, Kubernetes, SageMaker, LazyPredict, Power BI, SHAP etc  
 
 # SELECTED PORTFOLIO PROJECT
 Below are some selected portfolio projects. There are over 20 other fascinating project repositories
