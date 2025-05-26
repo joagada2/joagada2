@@ -8,7 +8,13 @@ My tech stack includes: Python, R, MATLAB, SQL, Bash, PyTorch, Numpy, Pandas, Se
 # SELECTED PORTFOLIO PROJECT
 Below are some selected portfolio projects. There are over 20 other fascinating project repositories
 
-## [Project 1: Machine Learning System for Predicting Fatality in Patients with Myocardial Infarction](https://github.com/joagada2/mi_fatality_prediction)
+## [Project 1: Conversational RAG Agent for Web Content Interaction and Navigation](https://github.com/joagada2/dse_697_fianl_project)
+The University of Tennessee, Knoxville (UTK) maintains a vast digital footprint with over 19,000 pages spread across its main and sub-domains (utk.edu). Thousands of visitors around the globe scan through the thousands of pages on utk.edu, reading chunks of irrelevant text to get the pieces of information they need. Visitors to utk.edu are also often interested in content of UT Systems website (tennessee.edu) and Oak Ridge National Laboratory website (ornl.gov). In this project, we built a chatbot that provides natural language interface for users to chat with content on utk.edu, tennessee.edu and ornl.gov. The system provides chat response alongside links to pages where information were extracted from on the websites. It is hope to make access to information on those websites more conversational and seamless.
+## APPLICATION LINKS
+ - Frontend [here](http://3.144.96.138/)
+ - Backend [here](http://3.143.23.19:8000/docs)
+
+## [Project 2: Machine Learning System for Predicting Fatality in Patients with Myocardial Infarction](https://github.com/joagada2/mi_fatality_prediction)
 The first three days of hospitalization for myocardial infarction (MI) patients are critical due to the high risk of fatal complications. Ghafari et al. (2023) developed a machine learning model to predict fatalities during this period. However, the study had two significant issues that I sought to address by building a new model using the same dataset, and then creating a full production-grade machine learning system off the project. First, the study incorrectly treated survivors as the positive class in the training data, which caused sensitivity and specificity to be interchanged, leading to a misreported sensitivity of 0.9435 instead of 0.6923. Second, the paper did not address the common issue of class imbalance in most real-world datasets, failing to use methods like SMOTE, which are proven to enhance model performance. In my model, I correctly designated the positive and negative classes and applied SMOTE to handle class imbalance, thereby significantly improving performance across all metrics to at least 97%. Finally, I developed a full production-grade machine learning system for prediction of outcome in MI patients. The ML system is ready for integration into web or mobile applications. Tools used in this project are as follow:
   - Python (Pandas, matplotlib, seaborn, scikitlearn etc)
   - Lazypredict - for experimentation
@@ -23,7 +29,7 @@ The first three days of hospitalization for myocardial infarction (MI) patients 
   - Git - For project version control
   - etc
     
-## [Project 2: Machine Learning System for Loan Default Prediction](https://github.com/joagada2/loan-default-prediction-model)
+## [Project 3: Machine Learning System for Loan Default Prediction](https://github.com/joagada2/loan-default-prediction-model)
 This is a complete end to end machine learning (binary classification) project. It covers all stages of ML lifecycle, from problem selection, model training, experiment tracking, model serving, real time/batch inferencing, model monitoring, workflow orchestration and CI/CD pipeline. Tech/skills used in this project are:
  - Python (Pandas, numpy, matplotlib, seaborn, scikitlearn etc)
  - XGBoost - for model training
@@ -39,7 +45,7 @@ This is a complete end to end machine learning (binary classification) project. 
  - Git - For project version control
  - DVC - For data version control
 
-## [Project 3: Machine Learning System for House Price Prediction](https://github.com/joagada2/king-county-house-price-prediction)
+## [Project 4: Machine Learning System for House Price Prediction](https://github.com/joagada2/king-county-house-price-prediction)
 This is a complete end to end machine learning (regression) project. It covers all stages of ML lifecycle, from problem selection, model training, experiment tracking, model serving, real time/batch inferencing, model monitoring, workflow orchestration and CI/CD pipeline. Technologies used include:
  - Python (Pandas, numpy, matplotlib, seaborn, scikitlearn etc)
  - XGBoost - for model training
@@ -55,7 +61,7 @@ This is a complete end to end machine learning (regression) project. It covers a
  - Git - For project version control
  - DVC - For data version control
    
-## [Project 4: Deep Learning Model for Detection of Malaria Infected Red Blood Cells](https://github.com/joagada2/deep_learning_model_for_detecting_malaria_infected_red_blood_cell)
+## [Project 5: Deep Learning Model for Detection of Malaria Infected Red Blood Cells](https://github.com/joagada2/deep_learning_model_for_detecting_malaria_infected_red_blood_cell)
 In this computer vision project, I trained convolutional neural network which takes image of red blood cells and predict if the cell in malaria infected or not. The model has accuracy of 0.94. I also built a flask application for deployment of the model to production environment. Skills/tech used in this project include:
  - Python (pandas, numpy, seaborn, matplotlib)
  - Tensorflow - for model training
